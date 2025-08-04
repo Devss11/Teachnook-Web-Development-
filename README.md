@@ -5,9 +5,6 @@
 2. Open the `index.html` file in any modern web browser.
 3. View the styled content centered around Jeon Jungkook.
 
-## 🖼️ Screenshot
-
-> *(Optional: Add a screenshot if you'd like to show a preview of the page.)*
 
 ## 📌 Notes
 
@@ -18,6 +15,4 @@
 
 - Developed by [Devi]
 
-## 📜 License
 
-This project is open source and free to use for educational purposes.
